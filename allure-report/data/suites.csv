@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20336","Verify that cart shows empty message when quantity is zero","chromium","Tue Aug 05 15:53:35 IST 2025","passed","Tue Aug 05 15:53:56 IST 2025","","EmptyCart.test.js","",""
+"","17867","Login with empty fields","chromium","Tue Aug 05 15:56:22 IST 2025","passed","Tue Aug 05 15:56:40 IST 2025","Negative TestCases","Login.test.js","",""
+"","16293","login with invalid credentials","chromium","Tue Aug 05 15:56:22 IST 2025","passed","Tue Aug 05 15:56:38 IST 2025","Negative TestCases","Login.test.js","",""
+"","16280","login with valid credentials","chromium","Tue Aug 05 15:56:22 IST 2025","passed","Tue Aug 05 15:56:38 IST 2025","Positive TestCases","Login.test.js","",""
